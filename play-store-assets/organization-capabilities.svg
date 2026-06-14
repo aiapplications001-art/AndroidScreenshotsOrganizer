@@ -1,0 +1,209 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" role="img" aria-labelledby="title desc">
+  <title id="title">Ask My Screenshots organization capabilities Play Store image</title>
+  <desc id="desc">A Play Store promotional image showing how Ask My Screenshots organizes screenshot text, images, QR codes, barcodes, faces, entities, categories, and embeddings.</desc>
+  <defs>
+    <style>
+      .font { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Roboto, Arial, sans-serif; }
+      .ink { fill: #1F1F1C; }
+      .muted { fill: #494641; }
+      .teal { fill: #176B62; }
+      .soft-teal { fill: #CDEDE6; }
+      .surface { fill: #FFFCF6; }
+      .band { fill: #F2EEE5; }
+      .gold { fill: #6D5D2A; }
+      .line { stroke: #176B62; stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+      .soft-line { stroke: #7FAEA7; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+      .shadow { filter: drop-shadow(0 24px 42px rgba(31, 31, 28, 0.16)); }
+      .small-shadow { filter: drop-shadow(0 10px 20px rgba(31, 31, 28, 0.10)); }
+    </style>
+    <linearGradient id="phoneInk" x1="250" y1="520" x2="830" y2="1430" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1F1F1C"/>
+      <stop offset="1" stop-color="#0E4E48"/>
+    </linearGradient>
+    <clipPath id="screenClip">
+      <rect x="254" y="560" width="572" height="840" rx="42"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1080" height="1920" fill="#F9F6EF"/>
+  <rect x="0" y="0" width="1080" height="438" fill="#F2EEE5"/>
+  <path d="M0 408 C160 466 328 480 510 444 C710 404 905 400 1080 454 L1080 0 L0 0 Z" fill="#F9F6EF"/>
+
+  <g transform="translate(80 76)">
+    <rect width="70" height="70" rx="18" fill="#176B62"/>
+    <rect x="17" y="17" width="36" height="26" rx="5" fill="#F9F6EF"/>
+    <rect x="23" y="50" width="20" height="5" rx="2" fill="#F9F6EF"/>
+    <rect x="47" y="50" width="8" height="5" rx="2" fill="#F9F6EF"/>
+    <rect x="23" y="25" width="24" height="4" rx="2" fill="#176B62"/>
+    <rect x="23" y="34" width="16" height="4" rx="2" fill="#176B62"/>
+    <text class="font ink" x="92" y="30" font-size="33" font-weight="760">Ask My Screenshots</text>
+    <text class="font muted" x="92" y="63" font-size="24" font-weight="520">Local screenshot memory</text>
+  </g>
+
+  <g transform="translate(80 214)">
+    <rect x="0" y="0" width="236" height="52" rx="26" fill="#CDEDE6"/>
+    <circle cx="31" cy="26" r="12" fill="#176B62"/>
+    <path d="M25 26 L30 31 L38 20" stroke="#FFFCF6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <text class="font teal" x="56" y="34" font-size="24" font-weight="760">Smart organization</text>
+  </g>
+
+  <text class="font ink" x="80" y="352" font-size="76" font-weight="820" letter-spacing="0">Every screenshot</text>
+  <text class="font ink" x="80" y="432" font-size="76" font-weight="820" letter-spacing="0">becomes searchable.</text>
+  <text class="font muted" x="80" y="500" font-size="30" font-weight="540">Text, images, QR codes, faces and mixed screenshots.</text>
+
+  <g class="small-shadow">
+    <rect x="54" y="646" width="196" height="92" rx="24" fill="#FFFCF6"/>
+    <rect x="91" y="674" width="86" height="9" rx="4" fill="#176B62" opacity="0.75"/>
+    <rect x="91" y="699" width="118" height="8" rx="4" fill="#494641" opacity="0.32"/>
+    <text class="font muted" x="94" y="770" font-size="23" font-weight="720">OCR text</text>
+
+    <rect x="830" y="646" width="196" height="92" rx="24" fill="#FFFCF6"/>
+    <circle cx="895" cy="695" r="19" fill="#CDEDE6"/>
+    <path d="M934 675 L974 719 H895 Z" fill="#6D5D2A" opacity="0.45"/>
+    <text class="font muted" x="875" y="770" font-size="23" font-weight="720">Images</text>
+
+    <rect x="54" y="854" width="196" height="92" rx="24" fill="#FFFCF6"/>
+    <g transform="translate(105 882)" fill="#176B62">
+      <rect x="0" y="0" width="14" height="14" rx="2"/>
+      <rect x="20" y="0" width="14" height="14" rx="2"/>
+      <rect x="40" y="0" width="14" height="14" rx="2"/>
+      <rect x="0" y="20" width="14" height="14" rx="2"/>
+      <rect x="40" y="20" width="14" height="14" rx="2"/>
+      <rect x="0" y="40" width="14" height="14" rx="2"/>
+      <rect x="20" y="40" width="14" height="14" rx="2"/>
+      <rect x="40" y="40" width="14" height="14" rx="2"/>
+    </g>
+    <text class="font muted" x="96" y="978" font-size="23" font-weight="720">QR codes</text>
+
+    <rect x="830" y="854" width="196" height="92" rx="24" fill="#FFFCF6"/>
+    <circle cx="898" cy="895" r="22" fill="#CDEDE6"/>
+    <path d="M862 931 C872 910 924 910 934 931" stroke="#176B62" stroke-width="7" stroke-linecap="round" fill="none"/>
+    <text class="font muted" x="886" y="978" font-size="23" font-weight="720">Faces</text>
+
+    <rect x="54" y="1062" width="196" height="92" rx="24" fill="#FFFCF6"/>
+    <rect x="88" y="1088" width="70" height="48" rx="8" fill="#CDEDE6"/>
+    <path class="soft-line" d="M169 1099 h50 M169 1120 h36"/>
+    <text class="font muted" x="101" y="1186" font-size="23" font-weight="720">Mixed</text>
+
+    <rect x="830" y="1062" width="196" height="92" rx="24" fill="#FFFCF6"/>
+    <circle cx="890" cy="1108" r="18" fill="#CDEDE6"/>
+    <circle cx="934" cy="1108" r="18" fill="#E7E2D8"/>
+    <circle cx="978" cy="1108" r="18" fill="#CDEDE6"/>
+    <text class="font muted" x="898" y="1186" font-size="23" font-weight="720">Entities</text>
+  </g>
+
+  <path class="line" d="M242 704 C290 715 302 746 316 779"/>
+  <path class="line" d="M837 704 C790 715 778 746 764 779"/>
+  <path class="line" d="M242 908 C288 906 302 890 316 866"/>
+  <path class="line" d="M837 908 C792 906 778 890 764 866"/>
+  <path class="line" d="M242 1110 C286 1098 302 1068 316 1035"/>
+  <path class="line" d="M837 1110 C794 1098 778 1068 764 1035"/>
+
+  <g class="shadow">
+    <rect x="202" y="512" width="676" height="950" rx="76" fill="url(#phoneInk)"/>
+    <rect x="237" y="545" width="606" height="880" rx="54" fill="#FFFCF6"/>
+    <rect x="440" y="567" width="200" height="24" rx="12" fill="#1F1F1C" opacity="0.94"/>
+
+    <g clip-path="url(#screenClip)">
+      <rect x="254" y="560" width="572" height="840" rx="42" fill="#F9F6EF"/>
+      <g transform="translate(286 610)">
+        <rect width="508" height="226" rx="8" fill="#FFFCF6"/>
+        <text class="font ink" x="20" y="42" font-size="28" font-weight="760">Organize screenshots</text>
+        <g transform="translate(20 62)">
+          <rect x="0" y="0" width="92" height="34" rx="17" fill="#CDEDE6"/>
+          <text class="font teal" x="18" y="23" font-size="17" font-weight="720">Today</text>
+          <rect x="104" y="0" width="116" height="34" rx="17" fill="#E7E2D8"/>
+          <text class="font muted" x="124" y="23" font-size="17" font-weight="680">Last 7 days</text>
+          <rect x="232" y="0" width="126" height="34" rx="17" fill="#E7E2D8"/>
+          <text class="font muted" x="252" y="23" font-size="17" font-weight="680">Last 30 days</text>
+          <rect x="370" y="0" width="98" height="34" rx="17" fill="#E7E2D8"/>
+          <text class="font muted" x="391" y="23" font-size="17" font-weight="680">Custom</text>
+        </g>
+        <rect x="20" y="118" width="468" height="42" rx="8" fill="#176B62"/>
+        <text class="font surface" x="162" y="146" font-size="21" font-weight="760">Organize screenshots</text>
+        <rect x="20" y="176" width="468" height="36" rx="8" fill="#FFFCF6" stroke="#C9C1B4" stroke-width="2"/>
+        <text class="font muted" x="154" y="201" font-size="18" font-weight="680">Select images manually</text>
+      </g>
+
+      <g transform="translate(286 848)">
+        <rect width="508" height="116" rx="8" fill="#E7E2D8" opacity="0.78"/>
+        <circle cx="48" cy="58" r="28" fill="#CDEDE6"/>
+        <path d="M35 58 L45 68 L63 46" stroke="#176B62" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        <text class="font ink" x="92" y="45" font-size="25" font-weight="780">Organization done</text>
+        <text class="font muted" x="92" y="78" font-size="20" font-weight="540">1,260 screenshots organized - 96 new</text>
+        <text class="font muted" x="92" y="103" font-size="19" font-weight="540">1,164 already indexed - no rework</text>
+      </g>
+
+      <g transform="translate(286 980)">
+        <text class="font ink" x="0" y="28" font-size="23" font-weight="780">Local analysis pipeline</text>
+        <rect x="0" y="48" width="151" height="92" rx="8" fill="#CDEDE6"/>
+        <text class="font teal" x="20" y="83" font-size="20" font-weight="780">Read</text>
+        <text class="font muted" x="20" y="112" font-size="16" font-weight="620">OCR + labels</text>
+        <rect x="178" y="48" width="151" height="92" rx="8" fill="#FFFCF6"/>
+        <text class="font ink" x="198" y="83" font-size="20" font-weight="780">Detect</text>
+        <text class="font muted" x="198" y="112" font-size="16" font-weight="620">QR + faces</text>
+        <rect x="357" y="48" width="151" height="92" rx="8" fill="#FFFCF6"/>
+        <text class="font ink" x="377" y="83" font-size="20" font-weight="780">Understand</text>
+        <text class="font muted" x="377" y="112" font-size="16" font-weight="620">entities</text>
+        <path class="soft-line" d="M151 94 h27 M329 94 h28"/>
+      </g>
+
+      <g transform="translate(286 1138)">
+        <text class="font ink" x="0" y="28" font-size="23" font-weight="780">Categories it builds</text>
+        <rect x="0" y="50" width="116" height="34" rx="17" fill="#CDEDE6"/>
+        <text class="font teal" x="24" y="73" font-size="17" font-weight="720">Chats</text>
+        <rect x="128" y="50" width="132" height="34" rx="17" fill="#CDEDE6"/>
+        <text class="font teal" x="150" y="73" font-size="17" font-weight="720">Payments</text>
+        <rect x="272" y="50" width="106" height="34" rx="17" fill="#CDEDE6"/>
+        <text class="font teal" x="296" y="73" font-size="17" font-weight="720">Travel</text>
+        <rect x="390" y="50" width="118" height="34" rx="17" fill="#CDEDE6"/>
+        <text class="font teal" x="413" y="73" font-size="17" font-weight="720">Shopping</text>
+        <rect x="0" y="98" width="104" height="34" rx="17" fill="#E7E2D8"/>
+        <text class="font muted" x="27" y="121" font-size="17" font-weight="680">Food</text>
+        <rect x="116" y="98" width="96" height="34" rx="17" fill="#E7E2D8"/>
+        <text class="font muted" x="143" y="121" font-size="17" font-weight="680">Maps</text>
+        <rect x="224" y="98" width="140" height="34" rx="17" fill="#E7E2D8"/>
+        <text class="font muted" x="245" y="121" font-size="17" font-weight="680">Documents</text>
+        <rect x="376" y="98" width="132" height="34" rx="17" fill="#E7E2D8"/>
+        <text class="font muted" x="399" y="121" font-size="17" font-weight="680">Identity</text>
+      </g>
+
+      <g transform="translate(286 1286)">
+        <rect width="508" height="98" rx="8" fill="#CDEDE6" opacity="0.62"/>
+        <text class="font ink" x="20" y="38" font-size="23" font-weight="780">Embeddings make it searchable</text>
+        <text class="font muted" x="20" y="70" font-size="19" font-weight="540">Text, visual signals, entities and categories</text>
+      </g>
+    </g>
+
+    <rect x="254" y="560" width="572" height="840" rx="42" stroke="#E7E2D8" stroke-width="2" fill="none"/>
+  </g>
+
+  <g transform="translate(80 1510)">
+    <rect x="0" y="0" width="920" height="252" rx="44" fill="#FFFCF6" class="small-shadow"/>
+    <text class="font ink" x="44" y="62" font-size="39" font-weight="790">Choose any time range.</text>
+    <text class="font muted" x="44" y="107" font-size="26" font-weight="540">Update later and only new screenshots get added.</text>
+
+    <g transform="translate(44 145)">
+      <circle cx="24" cy="24" r="22" fill="#CDEDE6"/>
+      <path d="M14 24 L22 32 L36 16" stroke="#176B62" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <text class="font ink" x="62" y="33" font-size="25" font-weight="720">Today to custom range</text>
+    </g>
+    <g transform="translate(472 145)">
+      <circle cx="24" cy="24" r="22" fill="#CDEDE6"/>
+      <path d="M14 24 L22 32 L36 16" stroke="#176B62" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <text class="font ink" x="62" y="33" font-size="25" font-weight="720">Skips already indexed</text>
+    </g>
+    <g transform="translate(44 202)">
+      <circle cx="24" cy="24" r="22" fill="#CDEDE6"/>
+      <path d="M14 24 L22 32 L36 16" stroke="#176B62" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <text class="font ink" x="62" y="33" font-size="25" font-weight="720">Classifies automatically</text>
+    </g>
+    <g transform="translate(472 202)">
+      <circle cx="24" cy="24" r="22" fill="#CDEDE6"/>
+      <path d="M14 24 L22 32 L36 16" stroke="#176B62" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <text class="font ink" x="62" y="33" font-size="25" font-weight="720">Ready for Ask</text>
+    </g>
+  </g>
+
+  <text class="font muted" x="540" y="1848" font-size="25" font-weight="560" text-anchor="middle">A private searchable memory built from your screenshots.</text>
+</svg>

@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" role="img" aria-labelledby="title desc">
+  <title id="title">Ask My Screenshots ask and answer Play Store image</title>
+  <desc id="desc">A Play Store promotional image showing the Ask My Screenshots ask box, answer card, evidence screenshots, and local answer trace.</desc>
+  <defs>
+    <style>
+      .font { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Roboto, Arial, sans-serif; }
+      .ink { fill: #1F1F1C; }
+      .muted { fill: #494641; }
+      .teal { fill: #176B62; }
+      .soft-teal { fill: #CDEDE6; }
+      .surface { fill: #FFFCF6; }
+      .band { fill: #F2EEE5; }
+      .warm { fill: #F9F6EF; }
+      .gold { fill: #6D5D2A; }
+      .line { stroke: #176B62; stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+      .soft-line { stroke: #7FAEA7; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+      .shadow { filter: drop-shadow(0 24px 42px rgba(31, 31, 28, 0.16)); }
+      .small-shadow { filter: drop-shadow(0 10px 20px rgba(31, 31, 28, 0.10)); }
+    </style>
+    <linearGradient id="phoneInk" x1="250" y1="510" x2="830" y2="1450" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1F1F1C"/>
+      <stop offset="1" stop-color="#0E4E48"/>
+    </linearGradient>
+    <clipPath id="screenClip">
+      <rect x="254" y="560" width="572" height="840" rx="42"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1080" height="1920" fill="#F9F6EF"/>
+  <rect x="0" y="0" width="1080" height="438" fill="#F2EEE5"/>
+  <path d="M0 410 C160 468 328 480 510 444 C710 404 905 400 1080 454 L1080 0 L0 0 Z" fill="#F9F6EF"/>
+
+  <g transform="translate(80 76)">
+    <rect width="70" height="70" rx="18" fill="#176B62"/>
+    <rect x="17" y="17" width="36" height="26" rx="5" fill="#F9F6EF"/>
+    <rect x="23" y="50" width="20" height="5" rx="2" fill="#F9F6EF"/>
+    <rect x="47" y="50" width="8" height="5" rx="2" fill="#F9F6EF"/>
+    <rect x="23" y="25" width="24" height="4" rx="2" fill="#176B62"/>
+    <rect x="23" y="34" width="16" height="4" rx="2" fill="#176B62"/>
+    <text class="font ink" x="92" y="30" font-size="33" font-weight="760">Ask My Screenshots</text>
+    <text class="font muted" x="92" y="63" font-size="24" font-weight="520">Local screenshot memory</text>
+  </g>
+
+  <g transform="translate(80 214)">
+    <rect x="0" y="0" width="252" height="52" rx="26" fill="#CDEDE6"/>
+    <circle cx="31" cy="26" r="12" fill="#176B62"/>
+    <path d="M25 26 L30 31 L38 20" stroke="#FFFCF6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <text class="font teal" x="56" y="34" font-size="24" font-weight="760">Ask in plain English</text>
+  </g>
+
+  <text class="font ink" x="80" y="352" font-size="78" font-weight="820" letter-spacing="0">Ask anything.</text>
+  <text class="font ink" x="80" y="432" font-size="78" font-weight="820" letter-spacing="0">Get exact answers.</text>
+  <text class="font muted" x="80" y="500" font-size="31" font-weight="540">Find IDs, people, places, apps, proof and patterns.</text>
+
+  <g class="small-shadow">
+    <rect x="52" y="662" width="194" height="86" rx="24" fill="#FFFCF6"/>
+    <path class="soft-line" d="M99 703 h72 M99 724 h48"/>
+    <circle cx="84" cy="713" r="18" fill="#CDEDE6"/>
+    <text class="font muted" x="75" y="779" font-size="23" font-weight="720">Exact IDs</text>
+
+    <rect x="834" y="664" width="194" height="86" rx="24" fill="#FFFCF6"/>
+    <circle cx="886" cy="707" r="18" fill="#CDEDE6"/>
+    <circle cx="928" cy="707" r="18" fill="#E7E2D8"/>
+    <text class="font muted" x="875" y="779" font-size="23" font-weight="720">People</text>
+
+    <rect x="52" y="1060" width="194" height="86" rx="24" fill="#FFFCF6"/>
+    <path d="M146 1088 C164 1088 178 1102 178 1120 C178 1145 146 1168 146 1168 C146 1168 114 1145 114 1120 C114 1102 128 1088 146 1088 Z" fill="#CDEDE6"/>
+    <circle cx="146" cy="1120" r="10" fill="#176B62"/>
+    <text class="font muted" x="91" y="1176" font-size="23" font-weight="720">Places</text>
+
+    <rect x="834" y="1060" width="194" height="86" rx="24" fill="#FFFCF6"/>
+    <rect x="881" y="1089" width="96" height="62" rx="14" fill="#CDEDE6"/>
+    <path class="soft-line" d="M899 1111 h56 M899 1130 h34"/>
+    <text class="font muted" x="869" y="1176" font-size="23" font-weight="720">Proof</text>
+  </g>
+
+  <path class="line" d="M238 718 C282 722 296 748 308 785"/>
+  <path class="line" d="M843 718 C798 722 784 748 772 785"/>
+  <path class="line" d="M238 1104 C282 1102 296 1074 308 1040"/>
+  <path class="line" d="M843 1104 C798 1102 784 1074 772 1040"/>
+
+  <g class="shadow">
+    <rect x="202" y="512" width="676" height="950" rx="76" fill="url(#phoneInk)"/>
+    <rect x="237" y="545" width="606" height="880" rx="54" fill="#FFFCF6"/>
+    <rect x="440" y="567" width="200" height="24" rx="12" fill="#1F1F1C" opacity="0.94"/>
+
+    <g clip-path="url(#screenClip)">
+      <rect x="254" y="560" width="572" height="840" rx="42" fill="#F9F6EF"/>
+      <g transform="translate(286 610)">
+        <rect width="508" height="226" rx="8" fill="#FFFCF6"/>
+        <text class="font ink" x="20" y="42" font-size="28" font-weight="760">Ask</text>
+        <rect x="20" y="62" width="468" height="92" rx="8" fill="#FFFCF6" stroke="#C9C1B4" stroke-width="2"/>
+        <text class="font muted" x="40" y="100" font-size="23" font-weight="540">Show my Aarav Cafe payment proof</text>
+        <text class="font muted" x="40" y="130" font-size="23" font-weight="540">and the UPI ID I used.</text>
+        <rect x="20" y="170" width="468" height="42" rx="8" fill="#176B62"/>
+        <circle cx="212" cy="191" r="12" fill="#FFFCF6" opacity="0.96"/>
+        <path d="M208 191 h8 M212 187 v8" stroke="#176B62" stroke-width="3" stroke-linecap="round"/>
+        <text class="font surface" x="232" y="200" font-size="22" font-weight="760">Ask</text>
+      </g>
+
+      <g transform="translate(286 858)">
+        <rect width="508" height="160" rx="8" fill="#CDEDE6" opacity="0.62"/>
+        <text class="font ink" x="20" y="42" font-size="27" font-weight="780">Found the payment proof</text>
+        <text class="font muted" x="20" y="78" font-size="22" font-weight="540">3 screenshots match: receipt, UPI</text>
+        <text class="font muted" x="20" y="107" font-size="22" font-weight="540">confirmation, and cafe order note.</text>
+        <text class="font muted" x="20" y="139" font-size="19" font-weight="620">Confidence 92% - exact answer</text>
+      </g>
+
+      <g transform="translate(286 1038)">
+        <rect width="508" height="86" rx="8" fill="#E7E2D8" opacity="0.72"/>
+        <text class="font ink" x="18" y="34" font-size="22" font-weight="760">Why this answer</text>
+        <text class="font muted" x="18" y="64" font-size="18" font-weight="540">exact value - 184 candidates - 3 used - local answer</text>
+      </g>
+
+      <g transform="translate(286 1145)">
+        <text class="font ink" x="0" y="24" font-size="22" font-weight="780">Matching screenshots (7)</text>
+        <rect x="0" y="43" width="154" height="172" rx="8" fill="#E7E2D8"/>
+        <rect x="14" y="57" width="126" height="76" rx="8" fill="#FFFCF6"/>
+        <rect x="28" y="75" width="76" height="9" rx="4" fill="#176B62" opacity="0.75"/>
+        <rect x="28" y="99" width="98" height="8" rx="4" fill="#494641" opacity="0.32"/>
+        <text class="font ink" x="14" y="159" font-size="17" font-weight="760">Receipt</text>
+        <text class="font teal" x="14" y="184" font-size="16" font-weight="680">Used in answer</text>
+
+        <rect x="177" y="43" width="154" height="172" rx="8" fill="#E7E2D8"/>
+        <rect x="191" y="57" width="126" height="76" rx="8" fill="#FFFCF6"/>
+        <rect x="205" y="75" width="72" height="9" rx="4" fill="#6D5D2A" opacity="0.78"/>
+        <rect x="205" y="99" width="98" height="8" rx="4" fill="#494641" opacity="0.32"/>
+        <text class="font ink" x="191" y="159" font-size="17" font-weight="760">UPI payment</text>
+        <text class="font teal" x="191" y="184" font-size="16" font-weight="680">Used in answer</text>
+
+        <rect x="354" y="43" width="154" height="172" rx="8" fill="#E7E2D8"/>
+        <rect x="368" y="57" width="126" height="76" rx="8" fill="#FFFCF6"/>
+        <path d="M432 74 C447 74 459 86 459 101 C459 122 432 141 432 141 C432 141 405 122 405 101 C405 86 417 74 432 74 Z" fill="#CDEDE6"/>
+        <circle cx="432" cy="101" r="8" fill="#176B62"/>
+        <text class="font ink" x="368" y="159" font-size="17" font-weight="760">Cafe note</text>
+        <text class="font teal" x="368" y="184" font-size="16" font-weight="680">Used in answer</text>
+      </g>
+
+      <g transform="translate(286 1384)">
+        <rect width="508" height="86" rx="8" fill="#FFFCF6"/>
+        <text class="font ink" x="18" y="34" font-size="22" font-weight="760">Refine search</text>
+        <rect x="18" y="49" width="116" height="28" rx="14" fill="#CDEDE6"/>
+        <text class="font teal" x="34" y="69" font-size="15" font-weight="720">by app</text>
+        <rect x="146" y="49" width="136" height="28" rx="14" fill="#CDEDE6"/>
+        <text class="font teal" x="162" y="69" font-size="15" font-weight="720">by person</text>
+        <rect x="294" y="49" width="152" height="28" rx="14" fill="#CDEDE6"/>
+        <text class="font teal" x="310" y="69" font-size="15" font-weight="720">near date</text>
+      </g>
+    </g>
+
+    <rect x="254" y="560" width="572" height="840" rx="42" stroke="#E7E2D8" stroke-width="2" fill="none"/>
+  </g>
+
+  <g transform="translate(80 1510)">
+    <rect x="0" y="0" width="920" height="252" rx="44" fill="#FFFCF6" class="small-shadow"/>
+    <text class="font ink" x="44" y="62" font-size="39" font-weight="790">Answers come with evidence.</text>
+    <text class="font muted" x="44" y="107" font-size="26" font-weight="540">Every answer points back to matching screenshots and groups.</text>
+
+    <g transform="translate(44 145)">
+      <circle cx="24" cy="24" r="22" fill="#CDEDE6"/>
+      <path d="M14 24 L22 32 L36 16" stroke="#176B62" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <text class="font ink" x="62" y="33" font-size="25" font-weight="720">Natural questions</text>
+    </g>
+    <g transform="translate(472 145)">
+      <circle cx="24" cy="24" r="22" fill="#CDEDE6"/>
+      <path d="M14 24 L22 32 L36 16" stroke="#176B62" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <text class="font ink" x="62" y="33" font-size="25" font-weight="720">Screenshot citations</text>
+    </g>
+    <g transform="translate(44 202)">
+      <circle cx="24" cy="24" r="22" fill="#CDEDE6"/>
+      <path d="M14 24 L22 32 L36 16" stroke="#176B62" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <text class="font ink" x="62" y="33" font-size="25" font-weight="720">Evidence groups</text>
+    </g>
+    <g transform="translate(472 202)">
+      <circle cx="24" cy="24" r="22" fill="#CDEDE6"/>
+      <path d="M14 24 L22 32 L36 16" stroke="#176B62" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <text class="font ink" x="62" y="33" font-size="25" font-weight="720">Refine follow-ups</text>
+    </g>
+  </g>
+
+  <text class="font muted" x="540" y="1848" font-size="25" font-weight="560" text-anchor="middle">Ask your screenshot memory in your own words.</text>
+</svg>

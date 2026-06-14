@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" role="img" aria-labelledby="title desc">
+  <title id="title">Ask My Screenshots privacy first Play Store image</title>
+  <desc id="desc">A promotional store image explaining that screenshots stay on the user's phone and are not sent to servers, third parties, backups, or LLMs.</desc>
+  <defs>
+    <style>
+      .font { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Roboto, Arial, sans-serif; }
+      .ink { fill: #1F1F1C; }
+      .muted { fill: #494641; }
+      .teal { fill: #176B62; }
+      .soft-teal { fill: #CDEDE6; }
+      .surface { fill: #FFFCF6; }
+      .warm { fill: #F9F6EF; }
+      .line { stroke: #176B62; stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+      .soft-line { stroke: #7FAEA7; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+      .danger-line { stroke: #B3261E; stroke-width: 7; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+      .shadow { filter: drop-shadow(0 24px 42px rgba(31, 31, 28, 0.16)); }
+      .small-shadow { filter: drop-shadow(0 10px 20px rgba(31, 31, 28, 0.10)); }
+    </style>
+    <linearGradient id="phoneSheen" x1="230" y1="510" x2="820" y2="1450" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1F1F1C"/>
+      <stop offset="1" stop-color="#0E4E48"/>
+    </linearGradient>
+    <clipPath id="phoneScreenClip">
+      <rect x="279" y="598" width="522" height="727" rx="42"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1080" height="1920" fill="#F9F6EF"/>
+  <rect x="0" y="0" width="1080" height="458" fill="#F2EEE5"/>
+  <path d="M0 430 C150 488 310 504 500 468 C704 430 896 416 1080 472 L1080 0 L0 0 Z" fill="#F9F6EF"/>
+
+  <g transform="translate(80 76)">
+    <rect width="70" height="70" rx="18" fill="#176B62"/>
+    <rect x="17" y="17" width="36" height="26" rx="5" fill="#F9F6EF"/>
+    <rect x="23" y="50" width="20" height="5" rx="2" fill="#F9F6EF"/>
+    <rect x="47" y="50" width="8" height="5" rx="2" fill="#F9F6EF"/>
+    <rect x="23" y="25" width="24" height="4" rx="2" fill="#176B62"/>
+    <rect x="23" y="34" width="16" height="4" rx="2" fill="#176B62"/>
+    <text class="font ink" x="92" y="30" font-size="33" font-weight="760">Ask My Screenshots</text>
+    <text class="font muted" x="92" y="63" font-size="24" font-weight="520">Local screenshot memory</text>
+  </g>
+
+  <g transform="translate(80 214)">
+    <rect x="0" y="0" width="206" height="52" rx="26" fill="#CDEDE6"/>
+    <circle cx="30" cy="26" r="12" fill="#176B62"/>
+    <path d="M25 26 L29 30 L36 21" stroke="#FFFCF6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <text class="font teal" x="54" y="34" font-size="24" font-weight="760">Privacy first</text>
+  </g>
+
+  <text class="font ink" x="80" y="353" font-size="82" font-weight="820" letter-spacing="0">Your screenshots</text>
+  <text class="font ink" x="80" y="437" font-size="82" font-weight="820" letter-spacing="0">stay on your phone.</text>
+  <text class="font muted" x="80" y="505" font-size="32" font-weight="540">No screenshot ever leaves your device.</text>
+
+  <g class="small-shadow">
+    <rect x="71" y="696" width="180" height="90" rx="24" fill="#FFFCF6"/>
+    <path class="soft-line" d="M107 730 h55 m-55 20 h78"/>
+    <text class="font muted" x="108" y="816" font-size="24" font-weight="680">Servers</text>
+    <path class="danger-line" d="M84 703 L238 779 M238 703 L84 779"/>
+
+    <rect x="829" y="696" width="180" height="90" rx="24" fill="#FFFCF6"/>
+    <circle cx="881" cy="741" r="17" fill="#E7E2D8"/>
+    <circle cx="915" cy="741" r="17" fill="#E7E2D8"/>
+    <circle cx="949" cy="741" r="17" fill="#E7E2D8"/>
+    <text class="font muted" x="855" y="816" font-size="24" font-weight="680">Third parties</text>
+    <path class="danger-line" d="M842 703 L996 779 M996 703 L842 779"/>
+
+    <rect x="58" y="1012" width="200" height="90" rx="24" fill="#FFFCF6"/>
+    <path d="M113 1054 C119 1033 140 1032 148 1047 C155 1037 174 1042 177 1059 C192 1060 199 1077 188 1088 H106 C91 1088 88 1062 113 1054 Z" fill="#E7E2D8"/>
+    <text class="font muted" x="96" y="1132" font-size="24" font-weight="680">Backups</text>
+    <path class="danger-line" d="M72 1019 L244 1095 M244 1019 L72 1095"/>
+
+    <rect x="817" y="1012" width="205" height="90" rx="24" fill="#FFFCF6"/>
+    <path d="M878 1058 C878 1036 896 1018 919 1018 C942 1018 960 1036 960 1058 C960 1081 942 1098 919 1098 C896 1098 878 1081 878 1058 Z" fill="#E7E2D8"/>
+    <path class="soft-line" d="M919 1034 v48 M895 1058 h48 M903 1041 c10 8 23 8 33 0 M903 1075 c10 -8 23 -8 33 0"/>
+    <text class="font muted" x="878" y="1132" font-size="24" font-weight="680">LLM uploads</text>
+    <path class="danger-line" d="M831 1019 L1008 1095 M1008 1019 L831 1095"/>
+  </g>
+
+  <g class="shadow">
+    <rect x="228" y="548" width="624" height="866" rx="76" fill="url(#phoneSheen)"/>
+    <rect x="263" y="581" width="554" height="796" rx="54" fill="#FFFCF6"/>
+    <rect x="441" y="603" width="198" height="24" rx="12" fill="#1F1F1C" opacity="0.94"/>
+
+    <g clip-path="url(#phoneScreenClip)">
+      <rect x="279" y="598" width="522" height="727" rx="42" fill="#FFFCF6"/>
+      <rect x="311" y="642" width="458" height="112" rx="28" fill="#CDEDE6"/>
+      <text class="font teal" x="343" y="690" font-size="28" font-weight="780">Private index</text>
+      <text class="font muted" x="343" y="728" font-size="22" font-weight="560">Built locally from your screenshots</text>
+
+      <rect x="321" y="790" width="182" height="150" rx="22" fill="#F2EEE5"/>
+      <rect x="344" y="818" width="112" height="12" rx="6" fill="#176B62" opacity="0.72"/>
+      <rect x="344" y="847" width="138" height="10" rx="5" fill="#494641" opacity="0.32"/>
+      <rect x="344" y="873" width="116" height="10" rx="5" fill="#494641" opacity="0.24"/>
+      <circle cx="461" cy="907" r="13" fill="#176B62"/>
+
+      <rect x="532" y="790" width="182" height="150" rx="22" fill="#F2EEE5"/>
+      <rect x="556" y="818" width="72" height="12" rx="6" fill="#6D5D2A" opacity="0.68"/>
+      <rect x="556" y="847" width="128" height="10" rx="5" fill="#494641" opacity="0.32"/>
+      <rect x="556" y="873" width="96" height="10" rx="5" fill="#494641" opacity="0.24"/>
+      <path d="M656 896 L681 920 H630 Z" fill="#176B62" opacity="0.82"/>
+
+      <rect x="321" y="968" width="393" height="124" rx="24" fill="#E7E2D8" opacity="0.9"/>
+      <rect x="349" y="1001" width="176" height="12" rx="6" fill="#176B62" opacity="0.72"/>
+      <rect x="349" y="1032" width="294" height="10" rx="5" fill="#494641" opacity="0.26"/>
+      <rect x="349" y="1058" width="240" height="10" rx="5" fill="#494641" opacity="0.22"/>
+
+      <rect x="321" y="1123" width="182" height="134" rx="22" fill="#F2EEE5"/>
+      <rect x="532" y="1123" width="182" height="134" rx="22" fill="#F2EEE5"/>
+      <rect x="344" y="1150" width="102" height="12" rx="6" fill="#176B62" opacity="0.72"/>
+      <rect x="344" y="1181" width="136" height="10" rx="5" fill="#494641" opacity="0.28"/>
+      <rect x="556" y="1150" width="88" height="12" rx="6" fill="#6D5D2A" opacity="0.68"/>
+      <rect x="556" y="1181" width="128" height="10" rx="5" fill="#494641" opacity="0.28"/>
+
+      <rect x="429" y="865" width="222" height="222" rx="58" fill="#176B62"/>
+      <path d="M486 950 V917 C486 887 508 865 540 865 C572 865 594 887 594 917 V950" stroke="#FFFCF6" stroke-width="26" stroke-linecap="round" fill="none"/>
+      <rect x="463" y="934" width="154" height="111" rx="28" fill="#FFFCF6"/>
+      <circle cx="540" cy="986" r="15" fill="#176B62"/>
+      <rect x="533" y="996" width="14" height="24" rx="7" fill="#176B62"/>
+    </g>
+
+    <rect x="279" y="598" width="522" height="727" rx="42" stroke="#E7E2D8" stroke-width="2" fill="none"/>
+  </g>
+
+  <path class="line" d="M344 830 C284 824 251 799 232 760"/>
+  <path class="line" d="M736 830 C796 824 829 799 848 760"/>
+  <path class="line" d="M342 1076 C282 1075 244 1062 223 1039"/>
+  <path class="line" d="M739 1076 C799 1075 839 1062 859 1039"/>
+
+  <g transform="translate(80 1482)">
+    <rect x="0" y="0" width="920" height="282" rx="44" fill="#FFFCF6" class="small-shadow"/>
+    <text class="font ink" x="44" y="66" font-size="40" font-weight="790">Everything stays on-device.</text>
+    <text class="font muted" x="44" y="112" font-size="26" font-weight="540">Your screenshot library is searched locally on your phone.</text>
+
+    <g transform="translate(44 148)">
+      <circle cx="25" cy="25" r="23" fill="#CDEDE6"/>
+      <path d="M15 25 L23 33 L37 17" stroke="#176B62" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <text class="font ink" x="64" y="34" font-size="26" font-weight="720">No servers</text>
+    </g>
+    <g transform="translate(476 148)">
+      <circle cx="25" cy="25" r="23" fill="#CDEDE6"/>
+      <path d="M15 25 L23 33 L37 17" stroke="#176B62" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <text class="font ink" x="64" y="34" font-size="26" font-weight="720">No third parties</text>
+    </g>
+    <g transform="translate(44 214)">
+      <circle cx="25" cy="25" r="23" fill="#CDEDE6"/>
+      <path d="M15 25 L23 33 L37 17" stroke="#176B62" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <text class="font ink" x="64" y="34" font-size="26" font-weight="720">No cloud backups</text>
+    </g>
+    <g transform="translate(476 214)">
+      <circle cx="25" cy="25" r="23" fill="#CDEDE6"/>
+      <path d="M15 25 L23 33 L37 17" stroke="#176B62" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <text class="font ink" x="64" y="34" font-size="26" font-weight="720">No LLM uploads</text>
+    </g>
+  </g>
+
+  <text class="font muted" x="540" y="1848" font-size="25" font-weight="560" text-anchor="middle">Ask your screenshots without uploading them.</text>
+</svg>
