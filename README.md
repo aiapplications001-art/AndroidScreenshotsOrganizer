@@ -1,6 +1,6 @@
-# Ask My Screenshots
+# AndroidScreenshotsOrganizer
 
-Native Android app for local screenshot organization and search.
+Ask My Screenshots is a native Android app for local screenshot organization and search.
 
 ## What it does
 
@@ -21,6 +21,10 @@ The repo expects local Android tooling under ignored `.local/` paths:
 - `.local/jdk`
 - `.local/android-sdk`
 - `.local/gradle`
+
+For Gemini-assisted query planning or answer phrasing, provide
+`ASK_SCREENSHOTS_GEMINI_API_KEY` as a Gradle property or environment variable
+when building. Do not commit API keys.
 
 Build:
 
